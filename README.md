@@ -1,6 +1,6 @@
 # I'm Amy(she/her), great to meet you!
 
-I am a full-stack engineer currently living in Washington DC, and working through Flatiron School's live software engineering program.
+I am a full-stack engineer currently living in Sunnyvale CA, and working through Flatiron School's live software engineering program.
 
 ---
 

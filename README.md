@@ -1,6 +1,6 @@
 # I'm Amy(she/her), great to meet you!
 
-I am a full-stack engineer currently living in Sunnyvale CA, and fellow at Formation.
+I am a full-stack engineer currently living in Santa Clara CA, and fellow at Formation.
 
 ---
 

@@ -1,6 +1,6 @@
 # I'm Amy(she/her), great to meet you!
 
-I am a software engineer and mother currently living in Santa Clara CA, and fellow at Formation.
+I am a software engineer, mother, and instructional designer currently living in Santa Clara CA.
 
 ---
 

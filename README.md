@@ -1,6 +1,6 @@
 # I'm Amy(she/her), great to meet you!
 
-I am a software engineer, mother, and instructional designer currently living in Santa Clara CA.
+I am a software engineer, mother, and accessibility advocate currently living in Santa Clara CA.
 
 ---
 
